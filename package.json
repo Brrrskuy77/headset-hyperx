@@ -1,0 +1,32 @@
+{
+  "name": "headset-hyperx",
+  "version": "1.0.0",
+  "description": "Model Headset Gaming merk Hyper X",
+  "main": "index.js",
+  "scripts": {
+    "test": "hyperx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/headset-hyperx.git"
+  },
+  "keywords": [
+    "Headset",
+    "Gaming",
+    "Hyper",
+    "X"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/headset-hyperx/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/headset-hyperx#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
